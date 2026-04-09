@@ -1,2 +1,7 @@
 # MotsheloMoney
-Manages motshelo events
+Manages motshelo events which are;
+add member
+record contributions
+assign payouts
+summary report
+
