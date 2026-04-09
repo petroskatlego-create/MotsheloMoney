@@ -1,0 +1,2 @@
+# MotsheloMoney
+Manages motshelo events
